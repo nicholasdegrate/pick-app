@@ -1,0 +1,14 @@
+/node_modules/
+/dist/
+/build/
+/artifacts/
+/coverage/
+.git/
+ios/
+android/
+.expo/ 
+assets/
+pnpm-lock.yaml
+.npmrc
+.eslintrc.js
+app.json
