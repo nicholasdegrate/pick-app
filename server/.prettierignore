@@ -1,0 +1,47 @@
+# Node.js modules
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+package.json
+Dockerfile
+# Build and temporary directories
+dist/
+build/
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Coverage directory
+coverage/
+
+# IDE or editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# NPM and Yarn lock files (if you don't want to format them)
+package-lock.json
+yarn.lock
+
+# Test files
+test/
+tests/
+
+# Docker and other configuration files (optional)
+Dockerfile
+docker-compose.yml
+
+# Git files
+.git/
+
+.eslintignore
+.eslint.config.js
